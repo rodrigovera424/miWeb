@@ -1,2 +1,2 @@
-# miWeb
+# MiWeb
 pagina web personal
